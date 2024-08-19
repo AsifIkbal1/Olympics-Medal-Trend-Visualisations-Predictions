@@ -1,2 +1,2 @@
 # Olympics-Medal-Trend-Visualisations-Predictions
-Olympics Medal Trend Visualisations + Predictions
+This notebook explores medal trends at the Summer and Winter Olympics over the last 20 years (the 2024 Olympics are yet to conclude at the time of composing this kernel). The visualisations are a combination of static and interactive. I've also attempted to predict medal countries for a sample continent and country (for both Summer and Winter Olympics given the small size of the dataset).
